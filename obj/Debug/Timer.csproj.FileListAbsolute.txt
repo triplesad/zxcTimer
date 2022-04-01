@@ -1,0 +1,11 @@
+D:\Projects\Timer\bin\Debug\Timer.exe.config
+D:\Projects\Timer\bin\Debug\Timer.exe
+D:\Projects\Timer\bin\Debug\Timer.pdb
+D:\Projects\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\Projects\Timer\obj\Debug\Timer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Timer\obj\Debug\Timer.Form1.resources
+D:\Projects\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Projects\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\Projects\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\Projects\Timer\obj\Debug\Timer.exe
+D:\Projects\Timer\obj\Debug\Timer.pdb
